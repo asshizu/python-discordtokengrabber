@@ -54,9 +54,6 @@ def search(userid, channelid):
             # Request was successful, update the variable and save the token
             worked = True
             stoken = headers.get('Authorization')
-            print(stoken)
-            with open('token.txt', 'w') as f:
-                f.write(stoken)
             return stoken
         if response.status_code == 429:
             # Rate limit exceeded, wait for the specified time

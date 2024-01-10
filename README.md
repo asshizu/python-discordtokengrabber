@@ -24,8 +24,6 @@ This library is nearly useless, as it would take a very long time to find a Toke
 
 Use this library responsibly and only for educational purposes.
 
-## Disclaimer
-
 **Warning:** The usage of this library to retrieve Discord tokens may violate Discord's [Terms of Service](https://discord.com/terms) and [Developer Terms of Service](https://discord.com/developers/docs/legal). Unauthorized access to user data or any actions that violate Discord's policies can result in serious consequences, including but not limited to account suspension or banning.
 
 By using this library, you acknowledge and understand the potential risks associated with it. The developer of this library is not responsible for any actions taken by users that violate Discord's terms. Use this library at your own risk and only for educational purposes.
